@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DRONE MAP</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #1a1a1a;
+      color: white;
+      padding: 20px 0;
+      font-size: 1.8em;
+    }
+    main {
+      margin-top: 30px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: gray;
+    }
+  </style>
+  <meta http-equiv="refresh" content="10"> <!-- Auto-refresh every 10 sec -->
+</head>
+<body>
+  <header>
+    🚁 DRONE MAP Server
+  </header>
+  
+  <main>
+    <h2>Welcome to the DRONE MAP live server</h2>
+    <p>This page updates automatically whenever you push code to GitHub.</p>
+    <p>You can embed maps, drone tracking visuals, or any project here.</p>
+  </main>
+  
+  <footer>
+    &copy; 2025 DRONE MAP Project
+  </footer>
+</body>
+</html>
